@@ -21,7 +21,7 @@ announcements.
 Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support questions in the support chat, where more people can help you.)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Rose-Bot)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Podilisanthosh/Rose-Bot.git)<br>
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/keralabots)
 [![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/kochuUpdates)
@@ -185,3 +185,86 @@ it is necessary to migrate it in the db.
 
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot owner.
+
+
+
+
+
+
+
+
+
+
+ 
+GOKUL JUNIOR COLLEGE 
+nd
+INTERMEDIATE 2 year {civics} 
+important questions 
+➢ LONG QUESTIONS {10 MARKS} 
+1. Explain the causes for the origin of Indian National Movement? 
+2. Explain the salient features of Indian constitution? 
+3. Explain the fundamental rights as incorporated in the Indian constitution? 
+4. What are the differences between fundamental rights and directive principles 
+of state policy? 
+5. Describe powers and functions of president of India? 
+6. Describe the powers of prime minister of India? 
+7. Explain the various factors which led to the agitation for a separate Telangana 
+State? 
+8. Discuss the formation of Telangana as the New State in the Indian union? 
+ 
+➢ SHORT QUESTIONS {5 MARKS} 
+9. Write about the important events during the Gandhian Phase of Indian 
+National Movement? 
+10. Write about the functions of Supreme Court of India? 
+11. Write about election of vice president and his powers and functions? 
+12. Write about Powers and Functions of State Governor? 
+1 
+  
+13. Write about Powers and Functions of State Governor? 
+14. Explain Powers and Functions of the Chief Minister? 
+15. Describe the main Provisions of the 73 Constitution Amendment Act, 1992? 
+16. Explain about Central Election Commission? 
+17. Elucidate various types of Terrorism in Indian Context? 
+18. Explain the Provisions of Gentlemen’s Agreement? 
+19. What is E-Governance? 
+20. Discuss the merits and demerits of E-Governance? 
+21. What is SMART Governance? 
+22. Explain any two Features of Indian Foreign Policy? 
+23. Briefly describe the Powers and Function of the Secretary General? 
+ 
+➢ VERY SHORT QUESTIONS {2 MARKS} 
+24. Moderates? 
+25. Preamble? 
+26. Universal Adult Franchise? 
+27. Socialistic Principles? 
+28. Any four Fundamental Duties? 
+29. What is an Electoral College, who are the members of Electoral College?  
+30. National Emergency? 
+31. NITI AYOG? 
+32. Balwanth Rai Mehta Committee? 
+2 
+  
+33. L.M Singhvi Committee? {deleted} 
+34. Gram Sabha? 
+35. Write about Electoral Photo Identity Card {EPIC}? 
+36. Coalition Politics at National level? 
+37. Forms of Corruption? 
+38. Whistle Blowers? 
+39. Sakala Janula Samme?  
+40. Million March? 
+41. In which year the RTI was enacted and enforced? 
+42. What is BIMSTEC? 
+43. Who are the members of SAARC? 
+44. List the main organs of UNO? 
+45. Who are the members of BRICS? 
+46. What is Panchasheel? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+****** 
+3 
+ 
