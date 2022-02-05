@@ -1,5 +1,5 @@
 # tgbot❤
-![Flooding SVG](https://readme-flooding-svg.herokuapp.com/?lines=🅆🄴🄻🄲🄾🄼🄴+🅃🄾+🅂🄰🄽🅃🄷🄾🅂🄷+🄶🅁🄾🅄🄿+🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃+🄱🄾🅃!;A+simple+Group+modular+bot!;and+all+futures!)
+![Typing SVG](https://readme-flooding-svg.herokuapp.com/?lines=🅆🄴🄻🄲🄾🄼🄴+🅃🄾+🅂🄰🄽🅃🄷🄾🅂🄷+🄶🅁🄾🅄🄿+🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃+🄱🄾🅃!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
 <center><a href="https://t.me/santhu_music_bot">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
