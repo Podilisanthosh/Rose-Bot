@@ -1,5 +1,5 @@
 # tgbot❤
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=santhosh+group+management+bot!;A+simple+Group+modular+bot!;and+all+futures!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🅆🄴🄻🄲🄾🄼🄴+🅃🄾+🅂🄰🄽🅃🄷🄾🅂🄷+🄶🅁🄾🅄🄿+🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃+🄱🄾🅃!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
 <center><img src="https://telegra.ph/file/6374be06fca3f8e59e6a2.jpg"></center>
 <br>
