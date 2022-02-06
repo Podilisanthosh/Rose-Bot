@@ -19,7 +19,6 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 santhugroupmangerbot_IMG = "https://te.legra.ph/file/9462e6eba7e79c3f65779.jpg"
 
-
 PM_START_TEXT = """
 
 Hello {} ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴀɴᴛʜᴜ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 😉.
