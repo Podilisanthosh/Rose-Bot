@@ -23,19 +23,13 @@ Hello {} ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴀɴᴛʜᴜ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢ�
 
 💞 ɴᴇɴᴜ ᴍᴇ ɢʀᴏᴜᴘ ɴɪ ᴍᴀɴᴀɢᴇ ᴄʜᴇsᴛʜᴀ ɴᴀɴᴜ ᴀᴅᴅ ᴄʜᴇsᴜᴋᴏɴᴅɪ 😇.
 
-എന്നെപ്പോലെ ഒരു അഡ്മിൻ ബോട്ടിനെ ഉണ്ടാക്കുവാൻ താഴെ കൊടുത്തിരിക്കുന്ന വീഡിയോ കാണുക.
-
-എന്റെ അപ്ഡേറ്റുകളെക്കുറിച്ചും പ്രവർത്തനത്തെപറ്റിയും അറിയുവാൻ അപ്ഡേറ്റ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യുക.
-
-കൂടെ താഴെ കൊടുത്തിരിക്കുന്ന ടെക് ഗെയിമിംഗ് യൂട്യൂബ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യാനും മറക്കേണ്ട.
-
-ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.
+😊 ᴇᴅʜɪɴᴀ ʜᴇʟᴘ ᴋᴀᴠᴀʟɪ ᴀɴᴛᴇ ᴇʟᴀ ᴛʏᴘᴇ ᴄʜᴇʏᴀɴᴅɪ/help ᴄᴏᴍᴍᴀɴᴅ 😉.
 
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
+ɴᴇɴᴜ sɪᴍᴘʟᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 😇 ɴɪ ɴᴇɴᴜ ᴍᴇ ɢʀᴏᴜᴘ sɪᴍᴘʟᴇ ɢᴀ ᴍᴀɴᴀɢᴇ ᴄʜᴇsᴛʜᴀ 💞! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
  - /start: start the bot
@@ -150,9 +144,9 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="🎉 Add me to your group", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="🤖 Make Own Admin Bot", url="https://youtu.be/W6CLKrehy6w")],
-                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/Mo_Tech_Group"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/Mo_Tech_YT")],
-                     [InlineKeyboardButton(text="👨‍💻 Make", url="https://youtu.be/wKL90i3cjPw"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                    [[InlineKeyboardButton(text="😘 ɴᴀɴᴜ ᴀᴅᴅ ᴄʜᴇsᴜᴋᴏɴᴅɪ", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="▶️ ʏᴏᴜᴛᴜʙᴇ", url="https://youtube.com/channel/UC7QMr8IDR65vciXrwx4XLiQ")],
+                     [InlineKeyboardButton(text="🔥 ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/santhuvc"), InlineKeyboardButton(text="💓 sᴀɴᴛʜᴜ ᴄʜᴀɴɴᴇʟ", url="https://t.me/santhubotupadates")],
+                     [InlineKeyboardButton(text="😍 ᴏᴡɴᴇʀ", url="https://t.me/santhu_music_bot"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
@@ -256,7 +250,7 @@ def get_help(bot: Bot, update: Update):
         module = args[1].lower()
         text = "Here is the available help for the *{}* module:\n".format(HELPABLE[module].__mod_name__) \
                + HELPABLE[module].__help__
-        send_help(chat.id, text, InlineKeyboardMarkup([[InlineKeyboardButton(text="Back", callback_data="help_back")]]))
+        send_help(chat.id, text, InlineKeyboardMarkup([[InlineKeyboardButton(text="👈 Back", callback_data="help_back")]]))
 
     else:
         send_help(chat.id, HELP_STRINGS)
@@ -307,7 +301,7 @@ def settings_button(bot: Bot, update: Update):
             query.message.reply_text(text=text,
                                      parse_mode=ParseMode.MARKDOWN,
                                      reply_markup=InlineKeyboardMarkup(
-                                         [[InlineKeyboardButton(text="Back",
+                                         [[InlineKeyboardButton(text="👈 Back",
                                                                 callback_data="stngs_back({})".format(chat_id))]]))
 
         elif prev_match:
