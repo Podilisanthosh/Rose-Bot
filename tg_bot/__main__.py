@@ -17,9 +17,10 @@ from tg_bot.modules import ALL_MODULES
 from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
-santhugroupmangerbot_IMG = "https://te.legra.ph/file/9462e6eba7e79c3f65779.jpg"
 
 PM_START_TEXT = """
+
+""https://te.legra.ph/file/9462e6eba7e79c3f65779.jpg""
 
 Hello {} ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴀɴᴛʜᴜ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ 😉.
 
