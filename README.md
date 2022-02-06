@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🅆🄴🄻🄲🄾🄼🄴+🅃🄾+🅂🄰🄽🅃🄷🄾🅂🄷+🄶🅁🄾🅄🄿+🄼🄰🄽🄰🄶🄴🄼🄴🄽🅃+🄱🄾🅃!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
 <center><a href="https://t.me/santhu_music_bot">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+    <img src="http://ForTheBadge.com/images/badges/made-with-telegram.svg">
   </a></center><br>
 <br>
 
